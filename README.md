@@ -18,3 +18,29 @@ You are asked to accomplish the following main tasks:
 
 * **[Optional Challenge](#Optional-Challenge):** Deploy your notebook to Amazon SageMaker.
 
+### Explained Variances 
+
+
+### PCA Reduction 
+
+
+
+### Predicted Clusters and Features
+
+![predicted_clusters_and_features](https://user-images.githubusercontent.com/95597283/164960615-3b4f2388-714e-4bd3-86cf-09572253dc91.jpg)
+
+### 3D Scatter Plot
+
+![3d_scatter_plot](https://user-images.githubusercontent.com/95597283/164960764-d762adf6-8158-4350-bc93-416e123ba410.png)
+
+### Scatter Plot: Total Coins Mined v Total Coin Supply
+
+![scatter_plot_coins_mined_vs_supply](https://user-images.githubusercontent.com/95597283/164960674-c9822454-1982-4f2d-93cd-f9d03efcbe2d.png)
+
+### Table of Tradable Cryptocurrencies 
+
+
+
+## AWS Sagemaker: Model Deployment
+
+
