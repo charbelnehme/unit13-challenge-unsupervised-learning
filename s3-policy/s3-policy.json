@@ -4,18 +4,18 @@
         {
             "Effect": "Allow",
             "Principal": {
-                "AWS": "arn:aws:iam::840146441156:role/service-role/AmazonSageMakerServiceCatalogProductsUseRole"
+                "AWS": "arn:aws:iam::136245962963:role/service-role/AmazonSageMakerServiceCatalogProductsUseRole"
             },
             "Action": "s3:GetObject",
-            "Resource": "arn:aws:s3:::unit-13-challenge/*"
+            "Resource": "arn:aws:s3:::unit13challenge/*"
         },
         {
             "Effect": "Allow",
             "Principal": {
-                "AWS": "arn:aws:iam::840146441156:role/service-role/AmazonSageMakerServiceCatalogProductsUseRole"
+                "AWS": "arn:aws:iam::136245962963:role/service-role/AmazonSageMakerServiceCatalogProductsUseRole"
             },
             "Action": "s3:ListBucket",
-            "Resource": "arn:aws:s3:::unit-13-challenge"
+            "Resource": "arn:aws:s3:::unit13challenge"
         }
     ]
 }
